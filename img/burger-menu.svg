@@ -1,0 +1,26 @@
+<svg width="56.000000" height="56.000000" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_44_169_dd" x="0.000000" y="0.000000" width="56.000000" height="56.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip44_169">
+			<rect id="burger-menu" width="48.000000" height="48.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_44_169_dd)">
+		<rect id="burger-menu" width="48.000000" height="48.000000" transform="translate(4.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip44_169)">
+			<path id="Vector" d="M49 5.03L22.42 5.03C22.19 5.03 22 5.22 22 5.46L22 8.46C22 8.7 22.19 8.89 22.42 8.89L49 8.89C49.23 8.89 49.42 8.7 49.42 8.46L49.42 5.46C49.42 5.22 49.23 5.03 49 5.03ZM49 27.75L22.42 27.75C22.19 27.75 22 27.94 22 28.17L22 31.17C22 31.41 22.19 31.6 22.42 31.6L49 31.6C49.23 31.6 49.42 31.41 49.42 31.17L49.42 28.17C49.42 27.94 49.23 27.75 49 27.75ZM49 39.1L7 39.1C6.76 39.1 6.57 39.3 6.57 39.53L6.57 42.53C6.57 42.77 6.76 42.96 7 42.96L49 42.96C49.23 42.96 49.42 42.77 49.42 42.53L49.42 39.53C49.42 39.3 49.23 39.1 49 39.1ZM49 16.39L7 16.39C6.76 16.39 6.57 16.58 6.57 16.82L6.57 19.82C6.57 20.05 6.76 20.25 7 20.25L49 20.25C49.23 20.25 49.42 20.05 49.42 19.82L49.42 16.82C49.42 16.58 49.23 16.39 49 16.39Z" fill="#00C4F0" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>
